@@ -129,7 +129,7 @@ export default function DevocionalPage() {
             </div>
 
             
-            {devocionaisDoMes.length > 1 && (
+            {devocionaisDoMes.length >= 1 && (
               <div className="bg-white rounded-3xl shadow-xl shadow-blue-100/30 p-8 backdrop-blur-sm border border-white/20 relative overflow-hidden">
                 <div className="absolute top-0 right-0 w-20 h-20 bg-gradient-to-br from-blue-100 to-indigo-200 rounded-full blur-2xl opacity-20 -translate-y-10 translate-x-10"></div>
                 
