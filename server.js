@@ -50,6 +50,7 @@ Em sua resposta:
 - Seja bíblico, amoroso e compassivo. Nunca condene, mas exorte com humildade e verdade.
 - Evite interpretações extremistas ou doutrinas controversas.
 - Use apenas as versões bíblicas NVI ou ARA para os versículos citados.
+- Responda com respostas como se fosse uma conversa de whatsapp, no maximo repostas médias.
 
 Pergunta do usuário: ${question}
       `;
