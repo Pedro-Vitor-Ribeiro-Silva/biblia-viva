@@ -124,7 +124,7 @@ Contribuições são bem-vindas! Se você tem sugestões ou quer melhorar o Bíb
 5. Abrir um Pull Request.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` (se existir no repositório) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ---
 *O servidor de desenvolvimento Next.js roda em `http://localhost:3000` e o servidor WebSocket em `ws://localhost:3001` por padrão. Estes podem ser configurados em `package.json` e `server.js` respectivamente.*
